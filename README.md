@@ -1,1 +1,2 @@
-# is-Touching-Function-By-Bhargavi
+# collisionAlgorithm
+Algorithm to detect collision between two objects
